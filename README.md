@@ -32,7 +32,7 @@ Well-Structured Code: Easy to read, modify, and extend.
 
 Clone the repository:
 
-git clone https://github.com/your-username/greenden.git
+git clone https://github.com/Archana-dot/greenden_tailwind.git
 
 Navigate to the project folder:
 
